@@ -205,7 +205,6 @@ poetry.toml
 images/
 datasets/
 *.docx
-*.pdf
 *.html
 *.xlsx
 *.zip
